@@ -3,3 +3,4 @@ Order pizza.
 Pay for pizza.
 Recieve reciept email.
 Recieved wait time email.
+Think of things to do while waiting.
