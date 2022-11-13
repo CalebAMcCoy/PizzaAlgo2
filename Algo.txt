@@ -2,3 +2,4 @@ Call Dominos.
 Order pizza.
 Pay for pizza.
 Recieve reciept email.
+Recieved wait time email.
