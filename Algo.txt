@@ -6,3 +6,4 @@ Recieved wait time email.
 Think of things to do while waiting.
 Sit on couch.
 Get off couch.
+Sit on couch again.
